@@ -9,7 +9,7 @@
 * Dimensionality Reduction
 * Unsupervised Learning
 
-#### Data is available in Data Folder. The data contains following tables:
+#### Data is available in Data Folder. The data contains following tables :
 * twm_customer - information about customers
 * twm_accounts - information about accounts
 * twm_checking_accounts - information about checking accounts (subset of twm_accounts)
