@@ -32,4 +32,4 @@ In this miniproject, we will :
 
 2.visualize the created clusters using radar charts and compare them agains each other
 
-3.visualize segmentations using scatter plot. We will have to use PCA to be able to plot our observations in 2D.
+3.visualize segmentations using scatter plot. We will have to use PCA to be able to plot our observations in 2D .
