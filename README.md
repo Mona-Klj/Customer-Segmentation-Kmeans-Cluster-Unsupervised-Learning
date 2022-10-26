@@ -21,7 +21,7 @@
 * twm_credit_tran - information about credit checking (subset of twm_transactions)
 
 #### Output
-In this miniproject, we will:
+In this miniproject, we will :
 
 1. create two separate customer segmentations (using clustering) to split them into 3-5 clusters:
    * based on demographics (only on the information from twm_customer)
