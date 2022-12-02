@@ -1,7 +1,7 @@
 ## Customer-Segmentation-Kmeans-Cluster-Unsupervised-Learning
 ### Topics
 
-#### This project used following topics :
+#### This project used following topics:
 
 * Data Wrangling
 * Data Visualization
